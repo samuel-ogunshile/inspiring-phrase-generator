@@ -30,13 +30,14 @@ input {
 .quote {
     font-size: 80px;
     margin: 10px 0;
-    
+    font-weight: bold;
     background-color: #111;
     color: white;
-    transition: all 2s ease-in;
+    transition: font-size 2s ease-in;
 }
 
-i {
+.quote p i{
     padding: 50px;
 }
+
 
