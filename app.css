@@ -1,0 +1,42 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    
+}
+
+body {
+    background-color: rgb(101, 220, 224);
+}
+
+#center {
+    width: 90%;
+    height: 90%;
+    border: black 1px solid;
+    margin-top: 15%;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: bisque;
+    padding: 10rem;
+    
+}
+
+input {
+    background-color: rgb(88, 73, 68);
+    color:white;
+    margin-top: 8px;
+}
+
+.quote {
+    font-size: 80px;
+    margin: 10px 0;
+    
+    background-color: #111;
+    color: white;
+    transition: all 2s ease-in;
+}
+
+i {
+    padding: 50px;
+}
+
